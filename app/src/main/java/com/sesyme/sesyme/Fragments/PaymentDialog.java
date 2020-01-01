@@ -1,3 +1,4 @@
+// Refactor component structure
 package com.sesyme.sesyme.Fragments;
 
 import android.app.AlertDialog;
