@@ -1,3 +1,4 @@
+<!-- Layout view structure -->
 <resources>
     <string name="app_name">Sesyme</string>
     <string name="hello_blank_fragment">Hello this is a Fragment</string>
