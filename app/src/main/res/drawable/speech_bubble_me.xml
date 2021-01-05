@@ -1,4 +1,5 @@
 <!-- Layout view structure -->
+<!-- Layout view structure -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <rotate
