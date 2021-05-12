@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Layout view structure -->
+<!-- Layout view structure -->
 <resources>
     <color name="colorPrimary">#6400AE</color>
     <color name="colorPrimaryDark">#6f3d92</color>
