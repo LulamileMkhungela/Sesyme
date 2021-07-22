@@ -1,5 +1,6 @@
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme.allagi;
 
 import android.content.Intent;
