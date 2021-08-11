@@ -1,5 +1,6 @@
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme.data;
 
 import com.google.firebase.firestore.ServerTimestamp;
