@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Layout view structure -->
 <!-- Layout view structure -->
+<!-- Layout view structure -->
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <external-path name="directions" path="Android/data/com.sesyme.sesyme/files/Download" />
     <external-path name="directions" path="Android/data/com.sesyme.sesyme/files/Pictures" />
