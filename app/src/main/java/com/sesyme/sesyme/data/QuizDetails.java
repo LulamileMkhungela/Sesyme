@@ -1,6 +1,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme.data;
 
 import java.util.ArrayList;
