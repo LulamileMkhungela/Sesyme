@@ -2,6 +2,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme;
 
 import android.content.Intent;
