@@ -3,6 +3,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme.data;
 
 import android.Manifest;
