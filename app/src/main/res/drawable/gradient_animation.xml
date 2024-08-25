@@ -5,6 +5,7 @@
 <!-- Layout view structure -->
 <!-- Layout view structure -->
 <!-- Layout view structure -->
+<!-- Layout view structure -->
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:drawable="@drawable/background_ui"
