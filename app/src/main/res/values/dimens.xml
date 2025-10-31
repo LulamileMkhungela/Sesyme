@@ -6,6 +6,7 @@
 <!-- Layout view structure -->
 <!-- Layout view structure -->
 <!-- Layout view structure -->
+<!-- Layout view structure -->
 <resources>
     <dimen name="interests_padding">8dp</dimen>
     <dimen name="interest_margin_top">16dp</dimen>
