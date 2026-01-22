@@ -6,6 +6,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.sesyme.sesyme.data;
 
 import androidx.fragment.app.Fragment;
